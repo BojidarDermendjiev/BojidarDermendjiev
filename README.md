@@ -1,49 +1,112 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+It's+Bozhidar!;&center=true&size=30">
-  </a>
-</h1>
-<img align="right" alt="Coding" width=100% src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=BojidarDermendjiev&label=Profile%20views&color=0e75b6&style=flat" alt="BojidarDermendjiev" /> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<h2 align="left">About me:</h2>
-- 🌱 I'm currently learning in Softuni.bg
-
-- 💬 Ask me about **C# ,HTML ,CSS, JS, NoSQL, Linux**
-
-- 📫 How to reach me **bozhidardermendjiew@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/bojidardermednjiev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bojidardermednjiev" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/bozhidar-dermendzhiev-530441277/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="božidar dermendžiev" height="30" width="40" /></a>
-<a href="https://fb.com/božidar miglenov dermendžiev" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="božidar miglenov dermendžiev" height="30" width="40" /></a>
-<a href="https://instagram.com/bojidar_dermendjiew" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bojidar_dermendjiew" height="30" width="40" /></a>
-<a href="https://discord.gg/bojidar_dermendjiew" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bojidar_dermendjiew" height="30" width="40" /></a>
-</p>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-
 <div align="center">
-  <h2><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=%F0%9F%90%8D+Snake+eating+my+contribution+%F0%9F%90%8D" alt="Typing SVG" /></a></h2>
-  <br>
-  <br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Bozhidar+%F0%9F%91%8B;Full-Stack+Software+Engineer;.NET+%E2%80%A2+React+%E2%80%A2+AI+Integration" alt="Typing SVG" />
 </div>
 
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bozhidar-dermendzhiev-530441277/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bojidardermendjiew@abv.bg)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bojidar_dermendjiew)
+[![Profile Views](https://komarev.com/ghpvc/?username=BojidarDermendjiev&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS)](https://github.com/BojidarDermendjiev)
+
+</div>
+
+---
+
+## About Me
+
+Full-Stack Software Engineer based in **Sofia, Bulgaria**, building modern web applications with **.NET**, **React**, and **AI integrations**. Graduate of **Software University** with 140 credits and 10 certified courses (2022–2025).
+
+- Building [**MamVibe**](https://github.com/BojidarDermendjiev/MamVibe) — a family marketplace with real-time chat, Stripe payments, and automated shipping
+- Integrating AI tools and APIs into development workflows for smarter applications
+- Always learning — recently finished ASP.NET Advanced (June 2025)
+
+---
+
+## Tech Stack
+
+**Backend**
+
+![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET_8-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+**Database**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL_16-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MS SQL Server](https://img.shields.io/badge/MS_SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+**Infrastructure & Tools**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+## Featured Project
+
+### [MamVibe — Family Marketplace Platform](https://github.com/BojidarDermendjiev/MamVibe)
+
+> A full-stack platform where families can donate or sell baby items — clothes, strollers, toys, and more.
+
+| Layer | Technology |
+|---|---|
+| Backend | .NET 8 · ASP.NET Core Web API · Clean Architecture |
+| Frontend | React 19 · TypeScript · Vite · Tailwind CSS · Zustand |
+| Database | PostgreSQL 16 · Entity Framework Core (Code-First) |
+| Auth | ASP.NET Core Identity · JWT + Refresh Tokens · Google OAuth |
+| Real-time | SignalR live chat between buyers and sellers |
+| Payments | Stripe Checkout |
+| Shipping | Econt Express · Speedy · Box Now (label download + tracking) |
+| Automation | n8n — 17+ workflows (emails, alerts, reports) |
+| Infrastructure | Docker · Nginx reverse proxy · GitHub Actions CI/CD |
+| Security | Cloudflare Turnstile · JWT rotation · Security headers |
+
+---
+
+## GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=BojidarDermendjiev&theme=github_dark&show_icons=true&hide_border=true&count_private=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BojidarDermendjiev&theme=github_dark&hide_border=true&layout=compact&langs_count=6" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=BojidarDermendjiev&theme=github-dark-blue&hide_border=true" />
+</div>
+
+---
+
+## Certifications
+
+**10 courses · 140 credits · Software University (2022–2025)**
+
+`ASP.NET Advanced` `ASP.NET Fundamentals` `ReactJS` `Entity Framework Core` `MS SQL` `C# Advanced` `C# OOP` `JS Front-End` `Algorithms with C#` `HTML & CSS`
+
+---
+
+<div align="center">
+
+*Snake eating my contributions*
+
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/preview/github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/preview/github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/preview/github-contribution-grid-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/preview/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/preview/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/preview/github-contribution-grid-snake.svg" />
 </picture>
+
+</div>
