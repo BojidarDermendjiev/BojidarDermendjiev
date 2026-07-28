@@ -17,7 +17,7 @@
 
 Full-Stack Software Engineer based in **Sofia, Bulgaria**, building modern web applications with **.NET**, **React**, and **AI integrations**. Graduate of **Software University** with 140 credits and 10 certified courses (2022–2025).
 
-- Building [**MamVibe**](https://github.com/BojidarDermendjiev/MamVibe) — a family marketplace with real-time chat, Stripe payments, and automated shipping
+- Building [**MumVibe**](https://github.com/BojidarDermendjiev/MamVibe) — a family marketplace with real-time chat, Stripe payments, and automated shipping
 - Integrating AI tools and APIs into development workflows for smarter applications
 - Always learning — recently finished ASP.NET Advanced (June 2025)
 
@@ -37,7 +37,7 @@ Full-Stack Software Engineer based in **Sofia, Bulgaria**, building modern web a
 
 ## Featured Project
 
-### [MamVibe — Family Marketplace Platform](https://github.com/BojidarDermendjiev/MamVibe)
+### [MumVibe — Family Marketplace Platform](https://github.com/BojidarDermendjiev/MamVibe)
 
 > A full-stack platform where families can donate or sell baby items — clothes, strollers, toys, and more.
 
