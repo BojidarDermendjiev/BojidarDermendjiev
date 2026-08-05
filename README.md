@@ -70,12 +70,12 @@ Full-Stack Software Engineer based in **Sofia, Bulgaria**, building modern web a
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=BojidarDermendjiev&theme=github_dark" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=BojidarDermendjiev&theme=github_dark" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BojidarDermendjiev&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Bozhidar's GitHub stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BojidarDermendjiev&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BojidarDermendjiev&theme=github-dark-blue&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BojidarDermendjiev&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
