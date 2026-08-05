@@ -70,12 +70,12 @@ Full-Stack Software Engineer based in **Sofia, Bulgaria**, building modern web a
 ## GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BojidarDermendjiev&show_icons=true&count_private=true&include_all_commits=true&theme=github_dark&hide_border=true" alt="Bozhidar's GitHub stats" />
-  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BojidarDermendjiev&layout=compact&langs_count=8&theme=github_dark&hide_border=true" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BojidarDermendjiev&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Bozhidar's GitHub stats" />
+  <img height="180" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=BojidarDermendjiev&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BojidarDermendjiev&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=BojidarDermendjiev&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
