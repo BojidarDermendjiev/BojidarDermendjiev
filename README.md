@@ -75,7 +75,7 @@ Full-Stack Software Engineer based in **Sofia, Bulgaria**, building modern web a
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=BojidarDermendjiev&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=BojidarDermendjiev&theme=github-dark-blue&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
