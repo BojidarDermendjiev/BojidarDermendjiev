@@ -88,6 +88,56 @@ Full-Stack Software Engineer based in **Sofia, Bulgaria**, building modern web a
 
 ---
 
+## Arcade Contribution Graphs
+
+<div align="center">
+
+*My GitHub contribution grid, replayed as classic arcade games — powered by [pacman-contribution-graph](https://github.com/abozanona/pacman-contribution-graph)*
+
+**Pac-Man**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/output/pacman-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/output/pacman-contribution-graph.svg" />
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/output/pacman-contribution-graph.svg" />
+</picture>
+
+**Breakout**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/output/breakout-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/output/breakout-contribution-graph.svg" />
+  <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/output/breakout-contribution-graph.svg" />
+</picture>
+
+**Galaga**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/output/galaga-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/output/galaga-contribution-graph.svg" />
+  <img alt="Galaga contribution graph" src="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/output/galaga-contribution-graph.svg" />
+</picture>
+
+**Puzzle Bobble**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/output/puzzle-bobble-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/output/puzzle-bobble-contribution-graph.svg" />
+  <img alt="Puzzle Bobble contribution graph" src="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/output/puzzle-bobble-contribution-graph.svg" />
+</picture>
+
+**Minesweeper**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/output/minesweeper-contribution-graph-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/output/minesweeper-contribution-graph.svg" />
+  <img alt="Minesweeper contribution graph" src="https://raw.githubusercontent.com/BojidarDermendjiev/BojidarDermendjiev/output/minesweeper-contribution-graph.svg" />
+</picture>
+
+</div>
+
+---
+
 <div align="center">
 
 *Snake eating my contributions*
